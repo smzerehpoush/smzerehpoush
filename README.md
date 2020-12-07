@@ -2,10 +2,10 @@
 
 <p align="center">
 
-I'm a current software engineer at [DigiPay](https://www.mydigipay.com/) and a former software engineer at [HamrahCard](https://hamrahcard.ir/). I'm also a computer engineering student at Shahed University.
+I'm currently a Software Engineer <!-- at [DigiPay](https://www.mydigipay.com/) !--> and a former Back-end Developer at [HamrahCard](https://hamrahcard.ir/). I'm also a computer engineering student at [Shahed University](http://shahed.ac.ir/pages/home.aspx).
 
-- My personal website: [mahdiyar.me](https://mahdiyar.me)
-- You can contact me through email: [mahdiyar.zerehpoush@gmail.com](mailto:mahdiyar.zerehpoush@gmail.com)
+- Personal Website: [mahdiyar.me](https://mahdiyar.me)
+- [Contact Me](https://mahdiyar.me/contact-me.html)
 </br>
 
 <p align="center">
