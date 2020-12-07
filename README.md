@@ -4,8 +4,8 @@
 
 I'm currently a Software Engineer <!-- at [DigiPay](https://www.mydigipay.com/) !--> and a former Back-end Developer at [HamrahCard](https://hamrahcard.ir/). I'm also a computer engineering student at [Shahed University](http://shahed.ac.ir/pages/home.aspx).
 
-- Personal Website: [mahdiyar.me](https://mahdiyar.me)
-- [Contact Me](https://mahdiyar.me/contact-me.html)
+- ⚡ Personal Website : [mahdiyar.me](https://mahdiyar.me)
+- 📫 Reach Me [Here](https://mahdiyar.me/contact-me.html)
 </br>
 
 <p align="center">
