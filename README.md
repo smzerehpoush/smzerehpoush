@@ -65,3 +65,7 @@ Education
 
 Bachelor’s of Computer Engineering at <a href="http://shahed.ac.ir/"> University of Shahed </a>, Tehran</br>
 10/2016 - Present</br>
+
+<p align="center">
+ <a href="#" alt="Mahdiyar Zerehpoush's github stats"><img src="https://github-readme-stats.vercel.app/api?username=smzerehpoush" /></a>
+</p>
