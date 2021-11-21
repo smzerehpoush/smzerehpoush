@@ -7,7 +7,7 @@
 Professional Summary
 ============
 
-Over five years of experience in Software Development Life Cycle, including documenting, coding, code reviewing, monitoring, and debugging. Skilled in Java, Spring, dotNet, Relational databases, Unit, and Integration Testing, and DevOps. Also, interested in Microservices and Distributed Systems.
+Over five years of experience in Software Development Life Cycle, including documenting, coding, code reviewing, monitoring and debugging. Skilled in Java, Spring, dotNet, Relational databases, Unit and Integration Testing and DevOps. Also, interested in Microservices and Distributed Systems.
 
 Tech Stack
 ============
@@ -15,7 +15,7 @@ Tech Stack
 | Back-end      | Spring Framework Family and .NET-Core  |
 | :---        | :---        |
 | Data Stores   | PostgreSQL, MySQL, SQL Server, Redis, MongoDB and RabbitMQ       |
-| Other         | Docker, Hiberante, JPA, Liquibase, Maven, Git, Grafana, Prometheus, Polly, Rest and SOAP       |
+| Other         | Docker, Hiberante, JPA, Liquibase, Maven, Git, Grafana, Prometheus, Rest and SOAP       |
 
 Technical Exprience
 ============
