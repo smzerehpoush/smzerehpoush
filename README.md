@@ -15,7 +15,7 @@ Tech Stack
 | Back-end      | Spring Framework Family and .NET-Core  |
 | :---        | :---        |
 | Data Stores   | PostgreSQL, MySQL, SQL Server, Redis, MongoDB and RabbitMQ       |
-| Other         | Docker, Hiberante, JPA, Liquibase, Maven, Git, Grafana, Prometheus, Rest and SOAP       |
+| Other         | Docker, Hiberante, JPA, Liquibase, Maven, Git, Grafana, Prometheus, REST and SOAP       |
 
 Technical Exprience
 ============
