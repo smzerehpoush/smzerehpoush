@@ -7,7 +7,7 @@
 Professional Summary
 ============
 
-Over five years of experience in Software Development Life Cycle, including documenting, coding, code reviewing, monitoring and debugging. Skilled in Java, Spring, dotNet, Relational databases and Unit/Integration Testing. Also, interested in Microservices and Distributed Systems.
+Over five years of experience in Software Development Life Cycle, including documenting, coding, code reviewing, monitoring and debugging. Skilled in Java, Spring, .NET, Relational databases and Unit/Integration Testing. Also, extensive experience in e-Payment industry. interested in Microservices and Distributed Systems. 
 
 Tech Stack
 ============
@@ -28,7 +28,7 @@ SEP is a software company that has lots of projects in the FinTech industry. I h
 - Monitor system with integrating custom metrics, Prometheus, and Grafana 
 - Interview candidates in the tech team 
 
-Technologies: Dotnet, Docker, SQL Server, Redis, Prometheus, Grafana, Gitlab and Jira 
+Technologies: .NET-Core, Docker, SQL Server, Redis, Prometheus, Grafana, RabbitMQ, Gitlab and Jira 
 
 -----------------------------------------------
 Back-end Developer | <a href="https://farazpardazan.com/"> Farazpardazan</a> | Tehran</br>
