@@ -1,5 +1,5 @@
 <h1> Mahdiyar Zerehpoush </h1> 
-<h2> Back-end Software Developer</h2> 
+<h2> Software Developer</h2> 
 
 
 <h4> +989124398514 | <a href="mailto:mahdiyar.zerehpoush+job-offer@gmail.com">mahdiyar.zerehpoush@gmail.com</a> | Tehran, Iran </h4> 
