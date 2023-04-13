@@ -46,19 +46,29 @@ Technologies: Spring (Boot, Data, Test, Security, etc.), OpenFeign, Docker, Post
 
 -----------------------------------------------
 
-Back-end Developer | <a href="https://lizbazi.app/" > Lizbazi </a> | Tehran</br>
-10/2019 - 05/2021 </br>
-Lizbazi is a Startup this it's main focus is on developing social media for athletes.
-
-Technologies: Spring Boot, MySQL, Nginx
-
------------------------------------------------
-
 Back-end Developer | <a href="https://nrdc.ir/" > Naji Research and Development co </a> | Tehran</br>
 09/2019 - 10/2020 </br>
 NRDC is a B2B and B2C company. This company mainly focuses on developing scalable solutions for country-wide usage.
 - Develop a highly transactional application used by policemen with more than 2M transactions per day
 Technologies: Spring Boot, Jersey, Oracle Databases, Weblogic and Apache
+
+-----------------------------------------------
+Freelance Projects
+============
+
+Back-end Developer | <a href="https://yakamozcafe.ir/" > Yakamoz Cafe </a> | Tehran</br>
+08/2022 - 12/2022 </br>
+Yakamoz cafe is an online cafe for tech companies with wallet and promotion system for companies.
+
+Technologies: Spring Boot, PostgreSQL, Nginx
+
+-----------------------------------------------
+
+Back-end Developer | <a href="https://lizbazi.app/" > Lizbazi </a> | Tehran</br>
+10/2019 - 05/2021 </br>
+Lizbazi is a Startup this it's main focus is on developing social media for athletes.
+
+Technologies: Spring Boot, MySQL, Nginx
 
 Education
 ============
