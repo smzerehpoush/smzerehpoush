@@ -19,9 +19,20 @@ Tech Stack
 
 Technical Exprience
 ============
+Software Developer | <a href="https://apps.apple.com/gb/app/journeyhero/id1483619113?l=en)/"> Journey Hero </a> | Tehran </br>
+05/2023 - Present</br>
+
+-----------------------------------------------
+
+Software Developer | <a href="https://tara360.ir/"> Tara </a> | Tehran </br>
+03/2023 - 05/2023</br>
+
+Technologies: Spring (Boot, Batch, Data, Test, Security, etc.), PostgreSQL, Redis, Prometheus, Grafana, RabbitMQ, Gitlab and Jira 
+
+-----------------------------------------------
 
 Software Developer | <a href="https://www.sep.ir/"> Saman Electronic Payments </a> | Tehran </br>
-12/2020 - Present</br>
+12/2020 - 03/2023</br>
 SEP is a software company that has lots of projects in the FinTech industry. I had the chance to work on many of these projects and begin my new adventure as a dotnet developer.
 - Migrate an existing project (<b>Card to Card Transfer</b>) from an old Monolithic WCF service to many .NET-Core services with Microservice architecture
 - Refactor the codebase of a highly transactional payment assistant application with more than 8M users called <b><a href="https://724.ir/" >724</a></b>.
